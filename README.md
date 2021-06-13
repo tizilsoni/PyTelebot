@@ -1,10 +1,10 @@
 # PyTelebot
-A bot to fetch data from website are relay it to telegram.
+A Python bot to fetch data from website and relay it to telegram.
 
 An Easy Bot to be controlled from telegram bot and scrap things from website like table,data,quotes,text anything and relay it to telebot by simple command.
 
 
-Will change it to automatic fetcher without command.
+Will change it to automatic fetcher without command.(Would Be Like A Ddos with slow speed and less traffic..(^-^)
 
 Required Python libraries--
 
